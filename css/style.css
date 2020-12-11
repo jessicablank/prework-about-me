@@ -4,6 +4,10 @@ body {
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+h4{
+  font-style: italic;
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
